@@ -1,0 +1,30 @@
+G:\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.exe.config
+G:\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.exe
+G:\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.pdb
+G:\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csprojAssemblyReference.cache
+G:\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.Form1.resources
+G:\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.Properties.Resources.resources
+G:\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csproj.GenerateResource.cache
+G:\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csproj.CoreCompileInputs.cache
+G:\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.exe
+G:\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.pdb
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.exe.config
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.exe
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.pdb
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csprojAssemblyReference.cache
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.Form1.resources
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.Properties.Resources.resources
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csproj.GenerateResource.cache
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csproj.CoreCompileInputs.cache
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.exe
+C:\Users\phuhu\Desktop\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.pdb
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.exe.config
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.exe
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\bin\Debug\HeatCold_Press.pdb
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csprojAssemblyReference.cache
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.Form1.resources
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.Properties.Resources.resources
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csproj.GenerateResource.cache
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.csproj.CoreCompileInputs.cache
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.exe
+C:\Users\Phuhu\OneDrive\Máy tính\HeatCold_Press\HeatCold_Press\obj\Debug\HeatCold_Press.pdb
